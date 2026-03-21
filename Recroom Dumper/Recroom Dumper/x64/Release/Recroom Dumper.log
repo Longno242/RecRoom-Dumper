@@ -1,0 +1,366 @@
+﻿  dllmain.cpp
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(438,10): error C2065: 'mov': undeclared identifier
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(439,35): error C2065: 'mov': undeclared identifier
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(443,5): error C2059: syntax error: 'return'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(609,1): error C2059: syntax error: '}'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(609,1): error C2143: syntax error: missing ';' before '}'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(611,26): error C2143: syntax error: missing ';' before '{'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(611,26): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(689,31): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(689,38): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(689,38): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(696,30): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(696,46): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(696,46): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(714,38): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(714,54): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(714,54): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(719,38): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(719,54): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(719,54): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(724,37): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(724,53): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(724,53): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(729,42): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(729,58): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(729,58): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(734,33): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(734,40): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(734,40): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(759,23): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(759,39): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(759,39): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(764,23): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(764,39): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(764,39): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(769,23): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(769,39): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(769,39): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(775,29): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(775,45): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(775,45): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(781,16): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(781,32): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(781,32): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,31): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,38): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,38): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,100): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,107): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(786,107): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(793,30): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(793,46): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(793,46): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(798,33): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(798,49): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(798,49): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(803,35): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(803,51): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(803,51): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(808,34): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(808,50): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(808,50): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(826,38): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(826,54): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(826,54): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(827,37): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(827,53): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(827,53): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,33): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,40): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,40): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,102): error C3083: 'fnv1a': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,109): error C2039: 'hash_class': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(832,109): error C3861: 'hash_class': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(837,35): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(837,51): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(837,51): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(842,37): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(842,53): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(842,53): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(847,36): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(847,52): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(847,52): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(873,37): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(873,53): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(873,53): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(887,33): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(887,49): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(887,49): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(892,42): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(892,58): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(892,58): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(903,42): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(903,58): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(903,58): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(904,42): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(904,58): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(904,58): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(926,45): error C3083: 'return_spoofer': the symbol to the left of a '::' must be a type
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(926,61): error C2039: 'spoof_call': is not a member of 'rrid::detail'
+  (compiling source file 'dllmain.cpp')
+      C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(256,12):
+      see declaration of 'rrid::detail'
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(926,61): error C3861: 'spoof_call': identifier not found
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\Joe\Desktop\RR Dumper\Recroom Dumper\Recroom Dumper\DumpBypass.hpp(926,61): error C1003: error count exceeds 100; stopping compilation
+  (compiling source file 'dllmain.cpp')
+  
