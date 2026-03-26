@@ -1,8 +1,0 @@
-﻿  console_ui.cpp
-C:\Users\Joe\Desktop\Dumper test\Testicle\Testicle\console_ui.cpp(179,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating code
-  647 of 2002 functions (32.3%) were compiled, the rest were copied from previous compilation.
-    203 functions were new in current compilation
-    208 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Testicle.vcxproj -> C:\Users\Joe\Desktop\Dumper test\Testicle\x64\Release\Testicle.dll
